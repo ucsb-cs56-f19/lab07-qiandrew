@@ -1,3 +1,9 @@
+JAVADOC and JACOCO
+
+https://ucsb-cs56-f19.github.io/lab07-qiandrew/
+
+
+
 A simple Spring Boot webapp using:
 * Thymeleaf templating
 * Pulling in Bootstrap from CDN.
