@@ -2,6 +2,10 @@ JAVADOC and JACOCO
 
 https://ucsb-cs56-f19.github.io/lab07-qiandrew/
 
+HEROKU APP
+
+https://cs56-f19-lab07-qiandrew.herokuapp.com/
+
 
 
 A simple Spring Boot webapp using:
