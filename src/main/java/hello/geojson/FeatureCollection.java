@@ -11,6 +11,7 @@ import org.slf4j.LoggerFactory;
 
 public class FeatureCollection {
   public String type;
+  public Metadata metadata;
 
   public static FeatureCollection fromJSON(String json) {
     try {
