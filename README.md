@@ -6,6 +6,9 @@ HEROKU APP
 
 https://cs56-f19-lab07-qiandrew.herokuapp.com/
 
+TRAVIS CI
+https://travis-ci.org/ucsb-cs56-f19/lab07-qiandrew
+
 
 
 A simple Spring Boot webapp using:
